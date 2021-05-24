@@ -1,3 +1,5 @@
+Utilized the Singlearity API to make predictions on the matchup of my hometown team Miami Marlins Vs. the Atlanta Braves on 4.14.2021.
+
 ![enter image description here](https://www.singlearity.com/static/assets/Logo-PNG.png)
 # Welcome to Singlearity!
 
